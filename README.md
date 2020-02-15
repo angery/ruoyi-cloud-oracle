@@ -2,16 +2,10 @@
 
 ### 文档 http://doc.rycloud.zmrit.com
 
-idea下载地址（百度网盘）绿色版本解压就可以使用
-链接：https://pan.baidu.com/s/1fP88tkH5ziGX6haXHEQL1w 
-提取码：stv2 
-复制这段内容后打开百度网盘手机App，操作更方便哦
-idea激活码
-http://idea.medeming.com/jets/
-
 ### 源码
 - [Github](https://github.com/angery/ruoyi-cloud-oracle)
 - [Gitee](https://gitee.com/angery/ruoyi-cloud-oracle.git)
+
 
 #### 分支说明
 
