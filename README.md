@@ -3,17 +3,15 @@
 ### 文档 http://doc.rycloud.zmrit.com
 
 ### 源码
-- [Github](https://github.com/zhangmrit/ruoyi-cloud)
-- [Gitee](https://gitee.com/zhangmrit/ruoyi-cloud)
+- [Github](https://github.com/angery/ruoyi-cloud-oracle)
+- [Gitee](https://gitee.com/angery/ruoyi-cloud-oracle.git)
 
 #### 分支说明
 
 - **master** spring原生方式，使用eureka做注册中心和spring config做配置中心
 - **nacos** 集成spring-cloud-alibaba 使用nacos做注册中心和配置中心
 
-本项目FORK自  [若依/RuoYi](https://gitee.com/y_project/RuoYi)
-
-蓝本是[zhangmrit/Ruoyi](https://gitee.com/zhangmrit/RuoYi)
+本项目FORK自  [zhangmrit/ruoyi-cloud](https://github.com/zhangmrit/ruoyi-cloud)
 
 依次绑定host：
 
@@ -76,17 +74,6 @@ ruoyi-cloud
 - dfs 可选
 
 菜单sql有增加字段，以上传到sql文件
-该分支是ant分支，前端使用ant-design-vue 项目地址 [ruoyi-ant](https://gitee.com/zhangmrit/ruoyi-ant)
+该分支是ant分支，前端使用ant-design-vue 项目地址 [ruoyi-ant-oracle](https://gitee.com/angery/ruoyi-ant-oracle)
 
 monitor使用springadmin完成,目前只是最简单的用法,[详戳](http://doc.rycloud.zmrit.com/#/extra?id=%e7%9b%91%e6%8e%a7)
-
-## RuoYi Cloud交流群
-
-QQ群：  [![加入QQ群](https://img.shields.io/badge/755109875-blue.svg)](https://jq.qq.com/?_wv=1027&k=5JGXHPD)  点击按钮入群。
-
-欢迎pr或者加入，给个star是最好的鞭策
-
-##  请作者喝杯咖啡或者建设演示服务器
-
-
-![](http://upload.ouliu.net/i/20191021180958e1ek5.png)
