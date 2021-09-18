@@ -159,8 +159,3 @@ monitor使用springadmin完成,目前只是最简单的用法,[详戳](http://do
 
 欢迎pr或者加入，给个star是最好的鞭策
 
-##  请作者喝杯咖啡
-
-
-![](https://images.gitee.com/uploads/images/2020/0215/113629_1cea6917_364035.png)
-
